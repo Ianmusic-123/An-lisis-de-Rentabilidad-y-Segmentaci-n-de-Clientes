@@ -19,6 +19,6 @@ VIP: Clientes con un gasto acumulado > $10,000 USD.
 Frecuentes: Clientes con gasto entre $5,000 y $10,000 USD.
 Ocasionales: Clientes con gasto menor a $5,000 USD.
 
-###💡 Conclusiones de Negocio
+### 💡 Conclusiones de Negocio
 * **Retención Prioritaria:** El 10% de los clientes (Top 10) genera una parte desproporcionadamente alta de los ingresos, lo que justifica la creación de un programa de lealtad exclusivo.
 * **Oportunidad de Upselling:** Se identificó un segmento de clientes "Frecuentes" con alto potencial de conversión a VIP mediante campañas de marketing dirigidas.
